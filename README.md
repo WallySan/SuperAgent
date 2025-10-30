@@ -2,6 +2,11 @@
 
 # ⚖️ Processador de Notas Fiscais Eletrônicas (NF-e) e Análise Regulatória com IA
 
+Desenvolvido por Ricardo Santoro
+
+santoro.engenharia@gmail.com
+
+
 ## 🚀 Visão Geral do Projeto
 
 Este projeto implementa uma solução de **RegTech** (Regulatory Technology) que automatiza a análise fiscal de Notas Fiscais Eletrônicas (XML) utilizando o poder do **Google Gemini** e técnicas de **RAG (Retrieval-Augmented Generation)** com o **FAISS**.
