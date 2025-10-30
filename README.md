@@ -50,3 +50,25 @@ pip install torch --index-url [https://download.pytorch.org/whl/cpu](https://dow
 
 # 2. Instala as bibliotecas de NLP, FAISS e as bibliotecas do projeto (LLM, PDF, etc.)
 pip install -r requirements.txt
+
+
+
+
+
+
+
+```
+
+Este projeto está sob a licença MIT (Massachusetts Institute of Technology).
+
+A licença MIT é uma licença de software livre permissiva que impõe restrições muito limitadas à reutilização. Em termos práticos, você está livre para:
+
+Usar este software para fins privados e comerciais.
+
+Modificar o código-fonte.
+
+Distribuir o software.
+
+Sublicenciar o software.
+
+A única exigência é que a licença MIT original e o aviso de direitos autorais sejam incluídos em todas as cópias ou porções substanciais do software.
